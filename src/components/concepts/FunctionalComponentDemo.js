@@ -65,7 +65,7 @@ const HelloWorldFatArrow = () =>
             <CardBody>
                 <CardTitle>Fat Arrow</CardTitle>
                 <CardSubtitle>A JS Library</CardSubtitle>
-                <CardText><pre>const HelloWorld = () => </pre></CardText>
+                <CardText><pre>const HelloWorld = () =  </pre></CardText>
                 <Button>Go somewhere man</Button>
             </CardBody>
         </Card>

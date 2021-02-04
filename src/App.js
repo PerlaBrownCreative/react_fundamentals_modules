@@ -13,7 +13,7 @@ const App = () => {
     <div>
       <Header />
       <Router>
-      <Sidebar />
+        <Sidebar />
       </Router>
     <Footer />
     </div>
